@@ -1,0 +1,19 @@
+.icon {
+    img {
+        width: 150px;
+    }
+}
+
+.small-icon {
+    img {
+        width: 100px;
+    }
+}
+
+.hero {
+    background-image: url('../home1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center -200px;
+}
